@@ -3,7 +3,7 @@ Prototype Online Banking System using the latest Java web technologies: Java 8, 
 
 ## Online Banking features:
 
-### User Front:
+### User Front End:
 >Registration for normal user online banking account.
 
 >Each normal user will have 2 accounts, Primary and Savings accounts.
