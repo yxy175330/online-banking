@@ -39,3 +39,6 @@ Prototype Online Banking System using the latest Java web technologies: Java 8, 
 
 ## System Detail Diagram:
 ![System Diagram](/src/main/resources/static/images/system_detail_diagram.png)
+
+## ER Diagram:
+![ER Diagram](/src/main/resources/static/images/ER_diagram.png)
