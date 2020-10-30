@@ -1,9 +1,7 @@
 # online-banking
-——————————————————————————————————————————————————————————————————————————————
 Prototype Online Banking System using the latest Java web technologies: Java 8, Spring Boot, Spring Data, Spring Security, Hibernate, MySQL.
 
 ##Online Banking features:
-——————————————————————————————————————————————————————————————————————————————
 
 ###User Front:###
 >Registration for normal user online banking account.
