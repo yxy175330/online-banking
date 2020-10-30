@@ -38,4 +38,4 @@ Prototype Online Banking System using the latest Java web technologies: Java 8, 
 >Backend and database using Spring and MySQL.
 
 ## System Detail Diagram:
-src/main/resources/static/images/system_detail_diagram.png
+(src/main/resources/static/images/system_detail_diagram.png)
